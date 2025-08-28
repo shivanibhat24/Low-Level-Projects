@@ -222,8 +222,6 @@ xor_diff_config_t config = {
 - `xor_patch_serialize()` - Serialize for storage
 - `xor_diff_get_stats()` - Performance statistics
 
-[📖 **Complete API Documentation**](docs/API.md)
-
 ## 🧪 Testing
 
 ### Run Unit Tests
